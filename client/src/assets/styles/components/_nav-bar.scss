@@ -1,0 +1,21 @@
+.nav-bar {
+    height: 100px;
+    background-color: $nav-bar-bg;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.nav-btn {
+    color: rgb(17, 65, 153);
+}
+
+.active-cell{
+    text-decoration: underline;
+}
+
+.inactive-cell{
+    text-decoration: none;
+}

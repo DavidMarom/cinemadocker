@@ -1,0 +1,79 @@
+.btn-del {
+    border: 0px solid #ff020200;
+    color: #ffffff;
+    border-radius: 50px;
+    background-color: #b9b9b9;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-align: center;
+    width: fit-content;
+    height: 31px;
+    margin-right: 1rem;
+    outline: none;
+
+}
+
+.btn2 {
+    border: 0px solid #ff020200;
+    color: #ffffff;
+    border-radius: 50px;
+    background-color: #2b8ed0;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-align: center;
+    width: fit-content;
+    height: 31px;
+    margin-right: 1rem;
+    outline: none;
+
+}
+
+.btn2:hover {
+    background-color: #1069a5;
+}
+
+.btn-update {
+    margin-left: 1rem;
+    border: 0px solid #ff020200;
+    color: #ffffff;
+    border-radius: 50px;
+    background-color: #ffa600;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-align: center;
+    width: fit-content;
+    height: 31px;
+    margin-right: 1rem;
+    outline: none;
+
+}
+
+.btn-update:hover {
+    background-color: #e68e00;
+}
+
+.btn-add {
+    margin-left: 1rem;
+    border: 0px solid #ff020200;
+    color: #ffffff;
+    border-radius: 50px;
+    background-color: #00ca00;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-align: center;
+    width: fit-content;
+    height: 31px;
+    margin-right: 1rem;
+}
+
+.btn-add:hover {
+    background-color: #00b109;
+}
+
+.btn-del:hover {
+    background-color: #dd0000;
+}
+
+.lnk-btn {
+    cursor: pointer;
+}

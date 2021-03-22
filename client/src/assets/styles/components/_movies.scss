@@ -1,0 +1,43 @@
+.movie-strip {
+    border-bottom: 1px solid $divider;
+    height: 3rem;
+}
+
+.h-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.movie-title {
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+}
+.movie-id {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    width: 10rem;
+    font-size: 0.7rem;
+}
+
+.add-button-col {
+    display: flex;
+    flex-direction: row;
+    width: 7rem;
+    align-content: center;
+    align-items: center;
+}
+
+.search-bar {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+    align-content: center;
+}
+
+.page-general {
+    padding-left: 1rem;
+}

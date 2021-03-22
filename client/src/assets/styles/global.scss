@@ -1,0 +1,12 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/typography.scss";
+
+// Basics
+@import "basics/layout.scss";
+@import "basics/base.scss";
+@import "basics/buttons.scss";
+
+// Components
+@import "components/movies";
+@import "components/nav-bar.scss";
